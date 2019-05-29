@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Gotham HTF Black';
+  src: url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Black.eot'); /* IE9 Compat Modes */
+  src: url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Black.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Black.woff') format('woff'), /* Modern Browsers */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Black.svg#59f32e2c2365528ff20262e139667c08') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Gotham HTF Medium';
+  src: url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Medium.eot'); /* IE9 Compat Modes */
+  src: url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Medium.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Medium.woff') format('woff'), /* Modern Browsers */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/web/20181107113629im_/http://wow.conquerordesigncontest.com/fonts/GothamHTF-Medium.svg#05487aa5c1216ca29ce360668b852782') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+/*
+     FILE ARCHIVED ON 11:36:29 Nov 07, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:51:09 May 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 101.051 (3)
+  esindex: 0.005
+  captures_list: 123.913
+  CDXLines.iter: 14.247 (3)
+  PetaboxLoader3.datanode: 50.678 (4)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.149
+  RedisCDXSource: 5.598
+  PetaboxLoader3.resolve: 37.565
+  load_resource: 50.997
+*/
